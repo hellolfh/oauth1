@@ -8,7 +8,8 @@
   * [使用百度授权前准备](oauthjie-shao/shi-yong-bai-du-shou-quan-qian-zhun-bei.md)
   * [百度支持的OAuth授权](oauthjie-shao/bai-du-zhi-chi-de-oauth-shou-quan.md)
   * 授权展示方式
-  * 授权回调地址
+  * [授权回调地址](oauthjie-shao/shou-quan-hui-diao-di-zhi.md)
+  * [第一章](oauthjie-shao/di-yi-zhang.md)
   * [授权权限列表](oauthjie-shao/shou-quan-quan-xian-lie-biao.md)
 * [授权应用场景](shou-quan-ying-yong-chang-jing.md)
 * [授权错误响应](shou-quan-cuo-wu-xiang-ying.md)
