@@ -14,5 +14,5 @@
 * [授权错误响应](shou-quan-cuo-wu-xiang-ying.md)
 * [开发相关资源](kai-fa-xiang-guan-zi-yuan.md)
 * [REST API](rest-api.md)
-* pc 客户端创建的
+* [pc 客户端创建的](pc-ke-hu-duan-chuang-jian-de.md)
 
