@@ -11,7 +11,8 @@
   * 授权回调地址
   * [授权权限列表](oauthjie-shao/shou-quan-quan-xian-lie-biao.md)
 * [授权应用场景](shou-quan-ying-yong-chang-jing.md)
-* 授权错误响应
-* 开发相关资源
-* REST API
+* [授权错误响应](shou-quan-cuo-wu-xiang-ying.md)
+* [开发相关资源](kai-fa-xiang-guan-zi-yuan.md)
+* [REST API](rest-api.md)
+* pc 客户端创建的
 
